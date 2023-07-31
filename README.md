@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tistory&logoColor=white&link=https://dong8707.tistory.com/)](https://dong8707.tistory.com/)
 
-* 💻 아직 배울게 많은 백엔드 개발자 희망생입니다.
-* 🎨 모든게 경험이라고 생각하고 일단 해보려고 합니다.
-* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+* 💻
+* 🎨 
+* 😎 
 
 **언어 및 도구**  
 
