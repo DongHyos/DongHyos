@@ -1,12 +1,12 @@
-### Backend-focused Full-stack Developer 👋
+### Backend-focused Full-stack Developer 
 
 도메인 로직을 **부수효과 없는 순수함수**로 격리하고, **테스트로 계약을 먼저 고정**하는 방식을 좋아합니다. 성능·장애 대응과 AI 개발 워크플로우에 관심이 많습니다.
 
-📝 **Blog** — https://donghyos.github.io
+**Blog** — https://donghyos.github.io
 
 ---
 
-### 🏠 nestly — AI 인테리어 배치 시뮬레이터
+### nestly — AI 인테리어 배치 시뮬레이터
 
 > 이사 전 **"내 가구가 새 집에 잘 들어갈까?"** 를 미리 확인하는 풀스택 사이드 프로젝트 · 기획 · 프론트 · 백엔드 **1인 개발**
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 기술 스택
+###  기술 스택
 
 **Backend**
 
@@ -40,4 +40,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
----
+
