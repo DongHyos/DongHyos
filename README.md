@@ -41,8 +41,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
-
-### 📊 GitHub
-
-![DongHyos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyos&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyos&layout=compact&hide_border=true)
