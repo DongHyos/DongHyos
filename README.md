@@ -1,36 +1,48 @@
-### Hi there 👋
+### Backend-focused Full-stack Developer 👋
 
-<!--
-**DongHyos/DongHyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+도메인 로직을 **부수효과 없는 순수함수**로 격리하고, **테스트로 계약을 먼저 고정**하는 방식을 좋아합니다. 성능·장애 대응과 AI 개발 워크플로우에 관심이 많습니다.
 
-Here are some ideas to get you started:
+📝 **Blog** — https://donghyos.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👋 반갑습니다!
+---
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tistory&logoColor=white&link=https://dong8707.tistory.com/)](https://dong8707.tistory.com/)
+### 🏠 nestly — AI 인테리어 배치 시뮬레이터
 
-* 💻
-* 🎨 
-* 😎 
+> 이사 전 **"내 가구가 새 집에 잘 들어갈까?"** 를 미리 확인하는 풀스택 사이드 프로젝트 · 기획 · 프론트 · 백엔드 **1인 개발**
 
-**언어 및 도구**  
+평면도 + 보유 가구 + 자연어 요구를 받아 **AI가 배치안을 제안하고, 코드가 제약(충돌·무타공·치수)을 검증**해 실현 가능한 안만 남깁니다. *"확률적 판단은 제안까지, 비가역 판정은 결정론 코드로"* 를 원칙으로 — 판정을 순수함수로 격리하고 **반례 테스트**로 "거짓 초록 0"(안 들어가는데 통과시키는 오판)을 강제했습니다.
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+`React 19` · `TypeScript` · `Spring Boot 3.5` · `Java 21` · `PostgreSQL`
+
+→ [**nestly-web** (프론트)](https://github.com/nestly-apps/nestly-web) · [**nestly-api** (백엔드)](https://github.com/nestly-apps/nestly-api)
+
+---
+
+### 🛠 기술 스택
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### 📊 GitHub
+
+![DongHyos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyos&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyos&layout=compact&hide_border=true)
