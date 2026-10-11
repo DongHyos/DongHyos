@@ -14,7 +14,7 @@
 
 `React 19` · `TypeScript` · `Spring Boot 3.5` · `Java 21` · `PostgreSQL`
 
-→ [**nestly 소개 · 설계와 화면 시안**](https://github.com/nestly-apps) (코드는 출시 준비로 비공개)
+→ [**nestly 소개 · 설계와 화면 시안**](https://github.com/nestly-apps)
 
 ---
 
